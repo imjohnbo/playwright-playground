@@ -1,0 +1,21 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjohnbo/playwright-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjohnbo/playwright-test/issues"
+  },
+  "homepage": "https://github.com/imjohnbo/playwright-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.1"
+  }
+}
